@@ -1,6 +1,4 @@
-h1 {
-    color: red;
-}
+
 body{
     display: flex;
 }
@@ -8,8 +6,36 @@ body{
     min-width: 150px;
     
     
+    
 }
 #nav a{
     background-color: yellow;
+    
    
+}
+.audit {
+    position: relative;
+    text-align: center;
+}
+td{
+    width: 200px;
+    height:50px;
+    border: solid ;
+    text-align: left;
+    vertical-align: top;
+}
+table{
+    border: 1px solid; border-collapse: collapse
+}
+#appList {
+    text-align: center;
+}
+#good {
+    background-color: rgba(47, 255, 0, 0.8);
+}
+#decent {
+    background-color: rgba(255, 119, 0, 0.8);
+}
+#bad {
+    background-color: rgba(255, 25, 0, 0.8);
 }
