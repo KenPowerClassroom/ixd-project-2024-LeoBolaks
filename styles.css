@@ -54,7 +54,7 @@ body{
 #intro {
     font-size: x-large;
     font-family: sans-serif;
-    margin-right: 100px;
+    max-width: 550px;
 }
 #introTitle{
     font-size: xx-large;
