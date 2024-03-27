@@ -88,3 +88,22 @@ body{
     max-width: 200;
     padding:2px;
 }
+
+#usability_table{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+#usability_table td{
+    border: 1px solid;
+    vertical-align: top;
+}
+#participant{
+    background-color: rgb(10, 141, 255);
+}
+#results {
+    background-color: rgb(196, 196, 196);
+}
+#usability_title {
+    font-family: sans-serif;
+    text-align: center;
+}
